@@ -1,0 +1,8 @@
+groq>=0.11.0
+torch
+transformers
+datasets
+soundfile
+librosa
+numpy
+sentencepiece

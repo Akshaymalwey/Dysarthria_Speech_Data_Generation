@@ -1,0 +1,472 @@
+[
+  {
+    "original_text": "I want to eat chicken for dinner tonight.",
+    "disfluent_text": "I-I-I want to um eat chicken for ddd-dinner tonight.",
+    "disfluency_type": [
+      "repetition",
+      "interjection",
+      "prolongation"
+    ]
+  },
+  {
+    "original_text": "They want to discuss the new project plan tomorrow.",
+    "disfluent_text": "They want to discuss the new prr-project plan tomorrow.",
+    "disfluency_type": [
+      "prolongation"
+    ]
+  },
+  {
+    "original_text": "I received a long message from an old friend yesterday.",
+    "disfluent_text": "I-I-I received a uh long mmm-message from an old friend yesterday.",
+    "disfluency_type": [
+      "prolongation",
+      "repetition",
+      "interjection"
+    ]
+  },
+  {
+    "original_text": "Can you tell me what time the meeting starts?",
+    "disfluent_text": "Can you tell me what what time the meeting starts?",
+    "disfluency_type": [
+      "repetition"
+    ]
+  },
+  {
+    "original_text": "The weather has been really nice this week.",
+    "disfluent_text": "The weather has been re-really nice this week.",
+    "disfluency_type": [
+      "repetition"
+    ]
+  },
+  {
+    "original_text": "She is planning to move to a new apartment next month.",
+    "disfluent_text": "She-She is planning to like move to a new aaa-apartment next month.",
+    "disfluency_type": [
+      "repetition",
+      "prolongation",
+      "interjection"
+    ]
+  },
+  {
+    "original_text": "We should really finish this report before Friday.",
+    "disfluent_text": "We should um really-really finish this rrr-report before Friday.",
+    "disfluency_type": [
+      "repetition",
+      "prolongation",
+      "interjection"
+    ]
+  },
+  {
+    "original_text": "He forgot his keys at the office again.",
+    "disfluent_text": "He forgot his keys at the oo-office again.",
+    "disfluency_type": [
+      "prolongation"
+    ]
+  },
+  {
+    "original_text": "The train was delayed for almost an hour this morning.",
+    "disfluent_text": "The train was delayed for aaa-almost an hour this morning.",
+    "disfluency_type": [
+      "prolongation"
+    ]
+  },
+  {
+    "original_text": "I think we need to buy more groceries this weekend.",
+    "disfluent_text": "I think we need need to buy more ggg-groceries this weekend.",
+    "disfluency_type": [
+      "repetition",
+      "prolongation"
+    ]
+  },
+  {
+    "original_text": "I need to attend the class at nine tomorrow morning.",
+    "disfluent_text": "I-I-I need to ttt-the class at nine tomorrow morning.",
+    "disfluency_type": [
+      "repetition",
+      "prolongation"
+    ]
+  },
+  {
+    "original_text": "She called her brother after finishing work.",
+    "disfluent_text": "She um called her bro-brother after finishing work.",
+    "disfluency_type": [
+      "interjection",
+      "repetition"
+    ]
+  },
+  {
+    "original_text": "We are planning to watch a movie tonight.",
+    "disfluent_text": "We are planning to wwww-watch a movie tonight.",
+    "disfluency_type": [
+      "prolongation"
+    ]
+  },
+  {
+    "original_text": "He left his wallet on the kitchen table.",
+    "disfluent_text": "He-He um left his wwww-wallet on the kkk-kitchen table.",
+    "disfluency_type": [
+      "repetition",
+      "interjection",
+      "prolongation"
+    ]
+  },
+  {
+    "original_text": "I have an important interview next week.",
+    "disfluent_text": "I uh have an im-im- important interview next week.",
+    "disfluency_type": [
+      "interjection",
+      "repetition"
+    ]
+  },
+  {
+    "original_text": "The students are preparing for their final exams.",
+    "disfluent_text": "The stt-students are ppp-preparing for their fff-final exams.",
+    "disfluency_type": [
+      "prolongation",
+      "repetition"
+    ]
+  },
+  {
+    "original_text": "Can you remind me to call the doctor later?",
+    "disfluent_text": "caa-can you remind me to call the doctor later?",
+    "disfluency_type": [
+      "prolongation"
+    ]
+  },
+  {
+    "original_text": "We need to clean the house before our guests arrive.",
+    "disfluent_text": "We um need to clean the hh-house before our guests arrive.",
+    "disfluency_type": [
+      "interjection",
+      "prolongation"
+    ]
+  },
+  {
+    "original_text": "She ordered a new dress for the wedding.",
+    "disfluent_text": "She ordered a new new dress for the wedding.",
+    "disfluency_type": [
+      "repetition"
+    ]
+  },
+  {
+    "original_text": "I forgot to charge my phone last night.",
+    "disfluent_text": "I fff-forgot to ch-ch-charge my ppp-phone last night.",
+    "disfluency_type": [
+      "prolongation",
+      "repetition"
+    ]
+  },
+  {
+    "original_text": "The manager asked us to submit the report today.",
+    "disfluent_text": "The th-the manager um asked us to submit the report today.",
+    "disfluency_type": [
+      "repetition",
+      "interjection"
+    ]
+  },
+  {
+    "original_text": "They went to the market to buy some fresh vegetables.",
+    "disfluent_text": "They-they went to the market uh to buy some fresh vvvv-vegetables.",
+    "disfluency_type": [
+      "interjection",
+      "prolongation",
+      "repetition"
+    ]
+  },
+  {
+    "original_text": "I am looking forward to meeting you tomorrow.",
+    "disfluent_text": "I am loo-ooking forward to meeting you tomorrow.",
+    "disfluency_type": [
+      "prolongation"
+    ]
+  },
+  {
+    "original_text": "He usually takes the bus to college every morning.",
+    "disfluent_text": "He us-usually takes the bus to college every morning.",
+    "disfluency_type": [
+      "repetition"
+    ]
+  },
+  {
+    "original_text": "We should probably leave early to avoid the traffic.",
+    "disfluent_text": "We we should probably um leave early to avoid the traffic.",
+    "disfluency_type": [
+      "repetition",
+      "interjection"
+    ]
+  },
+  {
+    "original_text": "My sister started a new job at a software company.",
+    "disfluent_text": "My My sister uh started a new job at a sss-software company.",
+    "disfluency_type": [
+      "prolongation",
+      "repetition",
+      "interjection"
+    ]
+  },
+  {
+    "original_text": "The children were playing outside in the afternoon.",
+    "disfluent_text": "The ch-ch-children were playing outside in the afternoon.",
+    "disfluency_type": [
+      "repetition"
+    ]
+  },
+  {
+    "original_text": "I need to send an email to my professor tonight.",
+    "disfluent_text": "I need to um send an email to my professor tonight.",
+    "disfluency_type": [
+      "interjection"
+    ]
+  },
+  {
+    "original_text": "She brought some snacks for everyone in the meeting.",
+    "disfluent_text": "She she brought some sss-snacks for everyone in the meeting.",
+    "disfluency_type": [
+      "repetition",
+      "prolongation"
+    ]
+  },
+  {
+    "original_text": "The coffee shop near my house opens at seven.",
+    "disfluent_text": "The th-the coffee shop near my house like ooo-opens at seven.",
+    "disfluency_type": [
+      "interjection",
+      "repetition",
+      "prolongation"
+    ]
+  },
+  {
+    "original_text": "He has been learning Python for the past few months.",
+    "disfluent_text": "He has um been learning ppp-Python for the past few months.",
+    "disfluency_type": [
+      "interjection",
+      "prolongation"
+    ]
+  },
+  {
+    "original_text": "We decided to have dinner at a restaurant downtown.",
+    "disfluent_text": "We decided to-to have dinner at a restaurant downtown.",
+    "disfluency_type": [
+      "repetition"
+    ]
+  },
+  {
+    "original_text": "Can you help me carry these boxes upstairs?",
+    "disfluent_text": "Can you help me ccc-carry these boxes upstairs?",
+    "disfluency_type": [
+      "prolongation"
+    ]
+  },
+  {
+    "original_text": "I have to finish reading this book by Monday.",
+    "disfluent_text": "I have um to-to ffff-finish reading this book by Monday.",
+    "disfluency_type": [
+      "repetition",
+      "prolongation",
+      "interjection"
+    ]
+  },
+  {
+    "original_text": "The internet connection has been slow since this morning.",
+    "disfluent_text": "The internet connection has uh been slow-slow since this morning.",
+    "disfluency_type": [
+      "repetition",
+      "interjection"
+    ]
+  },
+  {
+    "original_text": "She wants to buy a new phone before her birthday.",
+    "disfluent_text": "She wants to buy a new ppp-phone before her birthday.",
+    "disfluency_type": [
+      "prolongation"
+    ]
+  },
+  {
+    "original_text": "They are planning to travel to Mumbai during the holidays.",
+    "disfluent_text": "They are planning to ttt-travel to Mumbai during the holidays.",
+    "disfluency_type": [
+      "prolongation"
+    ]
+  },
+  {
+    "original_text": "I left my headphones inside the car.",
+    "disfluent_text": "I left my headphones-headphones inside the car.",
+    "disfluency_type": [
+      "repetition"
+    ]
+  },
+  {
+    "original_text": "He usually goes for a walk after dinner.",
+    "disfluent_text": "He usually goes for a www-walk after dinner.",
+    "disfluency_type": [
+      "prolongation"
+    ]
+  },
+  {
+    "original_text": "We need to book the tickets before they sell out.",
+    "disfluent_text": "We need to book the-the ttt-tickets before they sell out.",
+    "disfluency_type": [
+      "prolongation",
+      "repetition"
+    ]
+  },
+  {
+    "original_text": "The teacher gave us a difficult assignment yesterday.",
+    "disfluent_text": "The te-te-teacher gave us a ddd-difficult um assignment yesterday.",
+    "disfluency_type": [
+      "interjection",
+      "repetition",
+      "prolongation"
+    ]
+  },
+  {
+    "original_text": "I am trying to improve my programming skills this year.",
+    "disfluent_text": "I am trying to improve my ppp-programming skills this year.",
+    "disfluency_type": [
+      "prolongation"
+    ]
+  },
+  {
+    "original_text": "She forgot to bring her umbrella when she left home.",
+    "disfluent_text": "She forgot to bring her uuu-umbrella when she left home.",
+    "disfluency_type": [
+      "prolongation"
+    ]
+  },
+  {
+    "original_text": "The flight is scheduled to arrive in the afternoon.",
+    "disfluent_text": "The fl-fl-flight is sss-scheduled uh to arrive in the afternoon.",
+    "disfluency_type": [
+      "prolongation",
+      "interjection",
+      "repetition"
+    ]
+  },
+  {
+    "original_text": "He asked me to help him with his project.",
+    "disfluent_text": "He as-as-asked me to help him with his ppp-project.",
+    "disfluency_type": [
+      "repetition",
+      "prolongation"
+    ]
+  },
+  {
+    "original_text": "We should check the weather before going outside.",
+    "disfluent_text": "We sh-sh-should like check the www-weather before going outside.",
+    "disfluency_type": [
+      "interjection",
+      "repetition",
+      "prolongation"
+    ]
+  },
+  {
+    "original_text": "I received an interesting email from my friend this morning.",
+    "disfluent_text": "I received an iii-interesting email from my friend this morning.",
+    "disfluency_type": [
+      "prolongation"
+    ]
+  },
+  {
+    "original_text": "They have been waiting for the train for twenty minutes.",
+    "disfluent_text": "They have been waiting um for the train for twenty minutes.",
+    "disfluency_type": [
+      "interjection"
+    ]
+  },
+  {
+    "original_text": "Can you tell me where the nearest library is?",
+    "disfluent_text": "Can you te-te-tell me uh where the nearest library is?",
+    "disfluency_type": [
+      "interjection",
+      "repetition"
+    ]
+  },
+  {
+    "original_text": "I need to buy some groceries on my way home.",
+    "disfluent_text": "I need to bu-bu-buy some groceries on my way home.",
+    "disfluency_type": [
+      "repetition"
+    ]
+  },
+  {
+    "original_text": "She spent the entire evening working on her presentation.",
+    "disfluent_text": "She sss-spent the entire evening working on her presentation.",
+    "disfluency_type": [
+      "prolongation"
+    ]
+  },
+  {
+    "original_text": "The office will be closed during the holiday.",
+    "disfluent_text": "The the office um will be ccc-closed during the holiday.",
+    "disfluency_type": [
+      "interjection",
+      "repetition",
+      "prolongation"
+    ]
+  },
+  {
+    "original_text": "He wants to learn how to cook Italian food.",
+    "disfluent_text": "He wants uh to learn how to cook Italian food.",
+    "disfluency_type": [
+      "interjection"
+    ]
+  },
+  {
+    "original_text": "We are meeting our friends at the park this evening.",
+    "disfluent_text": "We we are meeting our friends at the ppp-park this evening.",
+    "disfluency_type": [
+      "repetition",
+      "prolongation"
+    ]
+  },
+  {
+    "original_text": "I have never visited that city before.",
+    "disfluent_text": "I I have never like vvv-visited that city before.",
+    "disfluency_type": [
+      "interjection",
+      "repetition",
+      "prolongation"
+    ]
+  },
+  {
+    "original_text": "The new restaurant opened near our college last month.",
+    "disfluent_text": "The new restaurant um opened near our college last month.",
+    "disfluency_type": [
+      "interjection"
+    ]
+  },
+  {
+    "original_text": "She needs to wake up early for work tomorrow.",
+    "disfluent_text": "She she needs to wake uh up eee-early for work tomorrow.",
+    "disfluency_type": [
+      "prolongation",
+      "repetition",
+      "interjection"
+    ]
+  },
+  {
+    "original_text": "They decided to start the project next week.",
+    "disfluent_text": "They they decided to like start the ppp-project next week.",
+    "disfluency_type": [
+      "repetition",
+      "prolongation",
+      "interjection"
+    ]
+  },
+  {
+    "original_text": "I think we should discuss this problem together.",
+    "disfluent_text": "I think we should um discuss this problem together.",
+    "disfluency_type": [
+      "interjection"
+    ]
+  },
+  {
+    "original_text": "He found an old photograph while cleaning his room.",
+    "disfluent_text": "He He found an old uh ppp-photograph while cleaning his room.",
+    "disfluency_type": [
+      "prolongation",
+      "repetition",
+      "interjection"
+    ]
+  }
+]
